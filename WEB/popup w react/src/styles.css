@@ -1,0 +1,38 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+.form-group {
+  margin-bottom: 16px;
+}
+
+.form-group label {
+  display: block;
+}
+
+
+.nav-item button {
+	box-shadow:inset 0px 1px 0px 0px #fbafe3;
+	background:linear-gradient(to bottom, #993269 5%, #ef027d 100%);
+	background-color:#993269;
+	border-radius:6px;
+	border:1px solid #c91298;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:-10px 1px 18px #c70067;
+}
+.nav-item button:hover {
+	background:linear-gradient(to bottom, #ef027d 5%, #993269 100%);
+	background-color:#ef027d;
+}
+.nav-item button:active {
+	position:relative;
+	top:1px;
+}
