@@ -1,0 +1,29 @@
+[
+    {
+        "pytanie":"Szerokość korony falochronu brzegowego w metrach to: ",
+        "a":5,
+        "b":3,
+        "c":10,
+        "d":12,
+        "prawidlowa_odpowiedz":"b"
+    },
+
+    { 
+        "pytanie":"Którą planetę od Słońca jest Ziemia?",
+        "a":1,
+        "b":2,
+        "c":3,
+        "d":4,
+        "prawidlowa_odpowiedz":"c"
+
+    },
+
+    {
+        "pytanie":"Która autor wcielił się w rolę Jamesa Bonda??",
+        "a":"Sean Connery",
+        "b":"Roger Moore",
+        "c":"Timothy Dalton",
+        "d":"Pierce Brosnan",
+        "prawidlowa_odpowiedz":"a"
+    }
+]
